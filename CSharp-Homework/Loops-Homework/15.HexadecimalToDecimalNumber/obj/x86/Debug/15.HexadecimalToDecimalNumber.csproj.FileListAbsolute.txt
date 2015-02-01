@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\15.HexadecimalToDecimalNumber\obj\x86\Debug\15.HexadecimalToDecimalNumber.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\15.HexadecimalToDecimalNumber\obj\x86\Debug\15.HexadecimalToDecimalNumber.pdb

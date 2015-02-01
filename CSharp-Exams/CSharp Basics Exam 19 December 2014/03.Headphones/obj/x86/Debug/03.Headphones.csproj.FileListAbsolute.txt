@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\03.Headphones\bin\Debug\03.Headphones.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\03.Headphones\bin\Debug\03.Headphones.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\03.Headphones\obj\x86\Debug\03.Headphones.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\03.Headphones\obj\x86\Debug\03.Headphones.pdb

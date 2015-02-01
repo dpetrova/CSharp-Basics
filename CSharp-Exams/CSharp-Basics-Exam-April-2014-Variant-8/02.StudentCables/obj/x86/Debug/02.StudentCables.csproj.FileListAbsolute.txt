@@ -1,0 +1,4 @@
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\02.StudentCables\bin\Debug\02.StudentCables.exe
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\02.StudentCables\bin\Debug\02.StudentCables.pdb
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\02.StudentCables\obj\x86\Debug\02.StudentCables.exe
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\02.StudentCables\obj\x86\Debug\02.StudentCables.pdb

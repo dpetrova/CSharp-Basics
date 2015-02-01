@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\02.JumpingSums\bin\Debug\02.JumpingSums.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\02.JumpingSums\bin\Debug\02.JumpingSums.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\02.JumpingSums\obj\x86\Debug\02.JumpingSums.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\02.JumpingSums\obj\x86\Debug\02.JumpingSums.pdb

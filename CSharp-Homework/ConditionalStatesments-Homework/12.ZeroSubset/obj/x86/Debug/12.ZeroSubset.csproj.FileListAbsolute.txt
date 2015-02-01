@@ -1,0 +1,5 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\12.ZeroSubset\obj\x86\Debug\12.ZeroSubset.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\12.ZeroSubset\obj\x86\Debug\12.ZeroSubset.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\12.ZeroSubset\obj\x86\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\07.QuotesInStrings\obj\x86\Debug\07.QuotesInStrings.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\07.QuotesInStrings\obj\x86\Debug\07.QuotesInStrings.pdb

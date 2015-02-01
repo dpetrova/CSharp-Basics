@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\10.InsideCircleAndOutsideRectangle\bin\Debug\10.InsideCircleAndOutsideRectangle.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\10.InsideCircleAndOutsideRectangle\bin\Debug\10.InsideCircleAndOutsideRectangle.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\10.InsideCircleAndOutsideRectangle\obj\x86\Debug\10.InsideCircleAndOutsideRectangle.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\10.InsideCircleAndOutsideRectangle\obj\x86\Debug\10.InsideCircleAndOutsideRectangle.pdb

@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\03.VariableInHexadecimalFormat\obj\x86\Debug\03.VariableInHexadecimalFormat.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\03.VariableInHexadecimalFormat\obj\x86\Debug\03.VariableInHexadecimalFormat.pdb

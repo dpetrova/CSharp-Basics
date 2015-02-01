@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\07.PointInACircle\obj\x86\Debug\07.PointInACircle.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\07.PointInACircle\obj\x86\Debug\07.PointInACircle.pdb

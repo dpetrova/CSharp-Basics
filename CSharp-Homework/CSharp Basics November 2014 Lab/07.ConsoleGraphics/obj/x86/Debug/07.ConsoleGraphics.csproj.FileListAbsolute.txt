@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\bin\Debug\07.ConsoleGraphics.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\bin\Debug\07.ConsoleGraphics.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\obj\x86\Debug\07.ConsoleGraphics.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\obj\x86\Debug\07.ConsoleGraphics.pdb

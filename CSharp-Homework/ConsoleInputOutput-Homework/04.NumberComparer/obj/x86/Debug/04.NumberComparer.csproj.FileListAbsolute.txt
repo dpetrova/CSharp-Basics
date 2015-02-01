@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\04.NumberComparer\obj\x86\Debug\04.NumberComparer.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\04.NumberComparer\obj\x86\Debug\04.NumberComparer.pdb

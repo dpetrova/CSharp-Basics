@@ -1,0 +1,4 @@
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.pdb
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\04.MagicCarNumbers\obj\x86\Debug\04.MagicCarNumbers.exe
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\04.MagicCarNumbers\obj\x86\Debug\04.MagicCarNumbers.pdb

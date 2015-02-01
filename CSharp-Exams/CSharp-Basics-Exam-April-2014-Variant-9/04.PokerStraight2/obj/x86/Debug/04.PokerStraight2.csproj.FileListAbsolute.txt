@@ -1,0 +1,5 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\04.PokerStraight2\bin\Debug\04.PokerStraight2.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\04.PokerStraight2\bin\Debug\04.PokerStraight2.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\04.PokerStraight2\obj\x86\Debug\04.PokerStraight2.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\04.PokerStraight2\obj\x86\Debug\04.PokerStraight2.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\04.PokerStraight2\obj\x86\Debug\04.PokerStraight2.csprojResolveAssemblyReference.cache

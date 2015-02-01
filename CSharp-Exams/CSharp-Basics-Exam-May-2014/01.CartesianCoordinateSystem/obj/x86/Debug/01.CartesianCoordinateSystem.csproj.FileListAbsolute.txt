@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\01.CartesianCoordinateSystem\bin\Debug\01.CartesianCoordinateSystem.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\01.CartesianCoordinateSystem\bin\Debug\01.CartesianCoordinateSystem.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\01.CartesianCoordinateSystem\obj\x86\Debug\01.CartesianCoordinateSystem.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\01.CartesianCoordinateSystem\obj\x86\Debug\01.CartesianCoordinateSystem.pdb

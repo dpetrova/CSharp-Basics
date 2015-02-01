@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\03.LargestProductOfDigits\bin\Debug\03.LargestProductOfDigits.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\03.LargestProductOfDigits\bin\Debug\03.LargestProductOfDigits.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\03.LargestProductOfDigits\obj\x86\Debug\03.LargestProductOfDigits.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\03.LargestProductOfDigits\obj\x86\Debug\03.LargestProductOfDigits.pdb

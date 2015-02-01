@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-25-July-2014-Evening\04.NakovsMatching\bin\Debug\04.NakovsMatching.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-25-July-2014-Evening\04.NakovsMatching\bin\Debug\04.NakovsMatching.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-25-July-2014-Evening\04.NakovsMatching\obj\x86\Debug\04.NakovsMatching.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-25-July-2014-Evening\04.NakovsMatching\obj\x86\Debug\04.NakovsMatching.pdb

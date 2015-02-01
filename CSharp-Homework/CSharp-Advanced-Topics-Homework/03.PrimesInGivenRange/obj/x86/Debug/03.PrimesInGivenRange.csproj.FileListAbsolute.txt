@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Advanced-Topics-Homework\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Advanced-Topics-Homework\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Advanced-Topics-Homework\03.PrimesInGivenRange\obj\x86\Debug\03.PrimesInGivenRange.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Advanced-Topics-Homework\03.PrimesInGivenRange\obj\x86\Debug\03.PrimesInGivenRange.pdb

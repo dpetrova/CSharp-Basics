@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\09.PlayWithIntDoubleAndString\obj\x86\Debug\09.PlayWithIntDoubleAndString.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\09.PlayWithIntDoubleAndString\obj\x86\Debug\09.PlayWithIntDoubleAndString.pdb

@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\02.FloatOrDouble\obj\x86\Debug\02.FloatOrDouble.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\02.FloatOrDouble\obj\x86\Debug\02.FloatOrDouble.pdb

@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\04.MagicStrings - FAST\bin\Debug\04.MagicStrings - FAST.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\04.MagicStrings - FAST\bin\Debug\04.MagicStrings - FAST.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\04.MagicStrings - FAST\obj\x86\Debug\04.MagicStrings - FAST.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\04.MagicStrings - FAST\obj\x86\Debug\04.MagicStrings - FAST.pdb

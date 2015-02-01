@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\09.MatrixOfNumbers\obj\x86\Debug\09.MatrixOfNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\09.MatrixOfNumbers\obj\x86\Debug\09.MatrixOfNumbers.pdb

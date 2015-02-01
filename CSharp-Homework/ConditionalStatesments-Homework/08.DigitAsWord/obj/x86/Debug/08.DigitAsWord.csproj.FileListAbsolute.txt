@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\08.DigitAsWord\obj\x86\Debug\08.DigitAsWord.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\08.DigitAsWord\obj\x86\Debug\08.DigitAsWord.pdb

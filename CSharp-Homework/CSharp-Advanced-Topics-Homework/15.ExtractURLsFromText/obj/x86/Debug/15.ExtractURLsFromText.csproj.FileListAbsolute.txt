@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\obj\x86\Debug\15.ExtractURLsFromText.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\obj\x86\Debug\15.ExtractURLsFromText.pdb

@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\01.FitBoxInBox\obj\x86\Debug\01.FitBoxInBox.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\01.FitBoxInBox\obj\x86\Debug\01.FitBoxInBox.pdb

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Electricity", "01.Electricity\01.Electricity.csproj", "{017B70F8-8B70-4A5C-8949-BF9B37F5F951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OddAndEvenJumps", "02.OddAndEvenJumps\02.OddAndEvenJumps.csproj", "{C9A48A70-4E8A-449A-ACEF-F86BC7685762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.HouseWithAWindow", "03.HouseWithAWindow\03.HouseWithAWindow.csproj", "{00201539-986F-4048-96BE-910ECCB73894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.NakovsMatching", "04.NakovsMatching\04.NakovsMatching.csproj", "{453D47AB-C39C-4B72-8D25-0ED49268F6F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ChangeEvenBits", "05.ChangeEvenBits\05.ChangeEvenBits.csproj", "{9B546705-69A9-42F0-8F62-395052B66B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{017B70F8-8B70-4A5C-8949-BF9B37F5F951}.Debug|x86.ActiveCfg = Debug|x86
+		{017B70F8-8B70-4A5C-8949-BF9B37F5F951}.Debug|x86.Build.0 = Debug|x86
+		{017B70F8-8B70-4A5C-8949-BF9B37F5F951}.Release|x86.ActiveCfg = Release|x86
+		{017B70F8-8B70-4A5C-8949-BF9B37F5F951}.Release|x86.Build.0 = Release|x86
+		{C9A48A70-4E8A-449A-ACEF-F86BC7685762}.Debug|x86.ActiveCfg = Debug|x86
+		{C9A48A70-4E8A-449A-ACEF-F86BC7685762}.Debug|x86.Build.0 = Debug|x86
+		{C9A48A70-4E8A-449A-ACEF-F86BC7685762}.Release|x86.ActiveCfg = Release|x86
+		{C9A48A70-4E8A-449A-ACEF-F86BC7685762}.Release|x86.Build.0 = Release|x86
+		{00201539-986F-4048-96BE-910ECCB73894}.Debug|x86.ActiveCfg = Debug|x86
+		{00201539-986F-4048-96BE-910ECCB73894}.Debug|x86.Build.0 = Debug|x86
+		{00201539-986F-4048-96BE-910ECCB73894}.Release|x86.ActiveCfg = Release|x86
+		{00201539-986F-4048-96BE-910ECCB73894}.Release|x86.Build.0 = Release|x86
+		{453D47AB-C39C-4B72-8D25-0ED49268F6F2}.Debug|x86.ActiveCfg = Debug|x86
+		{453D47AB-C39C-4B72-8D25-0ED49268F6F2}.Debug|x86.Build.0 = Debug|x86
+		{453D47AB-C39C-4B72-8D25-0ED49268F6F2}.Release|x86.ActiveCfg = Release|x86
+		{453D47AB-C39C-4B72-8D25-0ED49268F6F2}.Release|x86.Build.0 = Release|x86
+		{9B546705-69A9-42F0-8F62-395052B66B09}.Debug|x86.ActiveCfg = Debug|x86
+		{9B546705-69A9-42F0-8F62-395052B66B09}.Debug|x86.Build.0 = Debug|x86
+		{9B546705-69A9-42F0-8F62-395052B66B09}.Release|x86.ActiveCfg = Release|x86
+		{9B546705-69A9-42F0-8F62-395052B66B09}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

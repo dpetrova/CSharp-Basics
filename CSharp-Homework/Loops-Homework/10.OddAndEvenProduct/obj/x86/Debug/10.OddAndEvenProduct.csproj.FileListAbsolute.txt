@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\10.OddAndEvenProduct\obj\x86\Debug\10.OddAndEvenProduct.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\10.OddAndEvenProduct\obj\x86\Debug\10.OddAndEvenProduct.pdb

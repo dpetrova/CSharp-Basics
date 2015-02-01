@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\04.WeirdCombinations\obj\x86\Debug\04.WeirdCombinations.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\04.WeirdCombinations\obj\x86\Debug\04.WeirdCombinations.pdb

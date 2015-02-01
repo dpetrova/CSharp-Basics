@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\OperatorsAndExpressions-Homework\04.Rectangles\bin\Debug\04.Rectangles.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\OperatorsAndExpressions-Homework\04.Rectangles\bin\Debug\04.Rectangles.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\OperatorsAndExpressions-Homework\04.Rectangles\obj\x86\Debug\04.Rectangles.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\OperatorsAndExpressions-Homework\04.Rectangles\obj\x86\Debug\04.Rectangles.pdb

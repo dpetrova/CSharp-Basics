@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FitBoxInBox", "01.FitBoxInBox\01.FitBoxInBox.csproj", "{6AB020AB-A0CA-4626-86AF-E96D7EE1A3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SequenceOfKNumbers", "02.SequenceOfKNumbers\02.SequenceOfKNumbers.csproj", "{61FDCE33-A2CB-4E7B-8C1F-F00A554FD3EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Disk", "03.Disk\03.Disk.csproj", "{971F83F3-FC9C-4C0B-9CC0-7952B35CFD61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PokerStraight_trial", "04.PokerStraight\04.PokerStraight_trial.csproj", "{E6D6716F-0666-4665-8D97-D95B4F7EA9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PokerStraight2", "04.PokerStraight2\04.PokerStraight2.csproj", "{AFEFD459-0F3D-462F-B5B5-84205CDD8C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FriendBits", "05.FriendBits\05.FriendBits.csproj", "{DCC1B24D-ECF7-4FCF-B2EE-AFC336AE4722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB020AB-A0CA-4626-86AF-E96D7EE1A3F0}.Debug|x86.ActiveCfg = Debug|x86
+		{6AB020AB-A0CA-4626-86AF-E96D7EE1A3F0}.Debug|x86.Build.0 = Debug|x86
+		{6AB020AB-A0CA-4626-86AF-E96D7EE1A3F0}.Release|x86.ActiveCfg = Release|x86
+		{6AB020AB-A0CA-4626-86AF-E96D7EE1A3F0}.Release|x86.Build.0 = Release|x86
+		{61FDCE33-A2CB-4E7B-8C1F-F00A554FD3EA}.Debug|x86.ActiveCfg = Debug|x86
+		{61FDCE33-A2CB-4E7B-8C1F-F00A554FD3EA}.Debug|x86.Build.0 = Debug|x86
+		{61FDCE33-A2CB-4E7B-8C1F-F00A554FD3EA}.Release|x86.ActiveCfg = Release|x86
+		{61FDCE33-A2CB-4E7B-8C1F-F00A554FD3EA}.Release|x86.Build.0 = Release|x86
+		{971F83F3-FC9C-4C0B-9CC0-7952B35CFD61}.Debug|x86.ActiveCfg = Debug|x86
+		{971F83F3-FC9C-4C0B-9CC0-7952B35CFD61}.Debug|x86.Build.0 = Debug|x86
+		{971F83F3-FC9C-4C0B-9CC0-7952B35CFD61}.Release|x86.ActiveCfg = Release|x86
+		{971F83F3-FC9C-4C0B-9CC0-7952B35CFD61}.Release|x86.Build.0 = Release|x86
+		{E6D6716F-0666-4665-8D97-D95B4F7EA9A0}.Debug|x86.ActiveCfg = Debug|x86
+		{E6D6716F-0666-4665-8D97-D95B4F7EA9A0}.Debug|x86.Build.0 = Debug|x86
+		{E6D6716F-0666-4665-8D97-D95B4F7EA9A0}.Release|x86.ActiveCfg = Release|x86
+		{E6D6716F-0666-4665-8D97-D95B4F7EA9A0}.Release|x86.Build.0 = Release|x86
+		{AFEFD459-0F3D-462F-B5B5-84205CDD8C90}.Debug|x86.ActiveCfg = Debug|x86
+		{AFEFD459-0F3D-462F-B5B5-84205CDD8C90}.Debug|x86.Build.0 = Debug|x86
+		{AFEFD459-0F3D-462F-B5B5-84205CDD8C90}.Release|x86.ActiveCfg = Release|x86
+		{AFEFD459-0F3D-462F-B5B5-84205CDD8C90}.Release|x86.Build.0 = Release|x86
+		{DCC1B24D-ECF7-4FCF-B2EE-AFC336AE4722}.Debug|x86.ActiveCfg = Debug|x86
+		{DCC1B24D-ECF7-4FCF-B2EE-AFC336AE4722}.Debug|x86.Build.0 = Debug|x86
+		{DCC1B24D-ECF7-4FCF-B2EE-AFC336AE4722}.Release|x86.ActiveCfg = Release|x86
+		{DCC1B24D-ECF7-4FCF-B2EE-AFC336AE4722}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

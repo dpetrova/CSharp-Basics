@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\06.PrintNumbers\obj\x86\Debug\06.PrintNumbers.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\06.PrintNumbers\obj\x86\Debug\06.PrintNumbers.pdb

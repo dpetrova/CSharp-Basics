@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\04.WinningNumbers\bin\Debug\04.WinningNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\04.WinningNumbers\bin\Debug\04.WinningNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\04.WinningNumbers\obj\x86\Debug\04.WinningNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\04.WinningNumbers\obj\x86\Debug\04.WinningNumbers.pdb

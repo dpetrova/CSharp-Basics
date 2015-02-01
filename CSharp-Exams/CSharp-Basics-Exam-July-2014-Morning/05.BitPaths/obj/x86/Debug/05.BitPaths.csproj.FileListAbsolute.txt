@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\05.BitPaths\bin\Debug\05.BitPaths.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\05.BitPaths\bin\Debug\05.BitPaths.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\05.BitPaths\obj\x86\Debug\05.BitPaths.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\05.BitPaths\obj\x86\Debug\05.BitPaths.pdb

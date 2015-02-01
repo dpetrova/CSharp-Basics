@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\01.FruitMarket_Dict\bin\Debug\01.FruitMarket_Dict.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\01.FruitMarket_Dict\bin\Debug\01.FruitMarket_Dict.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\01.FruitMarket_Dict\obj\x86\Debug\01.FruitMarket_Dict.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\01.FruitMarket_Dict\obj\x86\Debug\01.FruitMarket_Dict.pdb

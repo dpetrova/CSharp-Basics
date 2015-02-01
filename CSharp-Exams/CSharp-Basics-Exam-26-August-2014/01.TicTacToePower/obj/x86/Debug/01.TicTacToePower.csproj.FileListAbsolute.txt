@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\01.TicTacToePower\bin\Debug\01.TicTacToePower.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\01.TicTacToePower\bin\Debug\01.TicTacToePower.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\01.TicTacToePower\obj\x86\Debug\01.TicTacToePower.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\01.TicTacToePower\obj\x86\Debug\01.TicTacToePower.pdb

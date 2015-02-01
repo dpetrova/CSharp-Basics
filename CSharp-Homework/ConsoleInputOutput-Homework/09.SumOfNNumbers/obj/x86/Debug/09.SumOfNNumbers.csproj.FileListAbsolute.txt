@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\09.SumOfNNumbers\obj\x86\Debug\09.SumOfNNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\09.SumOfNNumbers\obj\x86\Debug\09.SumOfNNumbers.pdb

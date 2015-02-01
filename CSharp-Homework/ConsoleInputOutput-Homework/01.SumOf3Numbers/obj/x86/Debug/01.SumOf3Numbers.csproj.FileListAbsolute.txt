@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\01.SumOf3Numbers\obj\x86\Debug\01.SumOf3Numbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\01.SumOf3Numbers\obj\x86\Debug\01.SumOf3Numbers.pdb

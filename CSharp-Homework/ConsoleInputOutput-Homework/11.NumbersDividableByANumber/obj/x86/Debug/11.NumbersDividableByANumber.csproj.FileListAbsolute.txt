@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\11.NumbersDividableByANumber\bin\Debug\11.NumbersDividableByANumber.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\11.NumbersDividableByANumber\bin\Debug\11.NumbersDividableByANumber.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\11.NumbersDividableByANumber\obj\x86\Debug\11.NumbersDividableByANumber.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\11.NumbersDividableByANumber\obj\x86\Debug\11.NumbersDividableByANumber.pdb

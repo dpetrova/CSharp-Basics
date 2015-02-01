@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\05.CalculateExpression\bin\Debug\05.CalculateExpression.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\05.CalculateExpression\bin\Debug\05.CalculateExpression.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\05.CalculateExpression\obj\x86\Debug\05.CalculateExpression.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\05.CalculateExpression\obj\x86\Debug\05.CalculateExpression.pdb

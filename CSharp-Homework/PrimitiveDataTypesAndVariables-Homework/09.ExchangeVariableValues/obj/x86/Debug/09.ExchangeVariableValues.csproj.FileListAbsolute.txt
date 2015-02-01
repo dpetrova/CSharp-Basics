@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\09.ExchangeVariableValues\obj\x86\Debug\09.ExchangeVariableValues.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\09.ExchangeVariableValues\obj\x86\Debug\09.ExchangeVariableValues.pdb

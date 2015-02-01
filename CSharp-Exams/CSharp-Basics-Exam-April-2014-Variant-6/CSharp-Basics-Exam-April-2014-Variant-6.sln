@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ExamSchedule", "01.ExamSchedule\01.ExamSchedule.csproj", "{9370BA41-A31F-4B41-BCEC-F54EB39FB6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OddAndEvenElements", "02.OddAndEvenElements\02.OddAndEvenElements.csproj", "{799C080D-E5D8-480C-8FD1-5B3697E8CEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Arrow", "03.Arrow\03.Arrow.csproj", "{B5BEA7E6-8FB2-4BA6-8AA8-95D20099A117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FiveSpecialLetters", "05.FiveSpecialLetters\04.FiveSpecialLetters.csproj", "{F7F788E2-D4D0-4619-8146-59C849FA09A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BitRoller", "05.BitRoller\05.BitRoller.csproj", "{2D23267B-BC8A-4082-A8B2-E29FF0B18EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BitRoller_Nakov", "05.BitRoller_Nakov\05.BitRoller_Nakov.csproj", "{366F32B7-50B8-4752-87B0-9BB6B4B96009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9370BA41-A31F-4B41-BCEC-F54EB39FB6BF}.Debug|x86.ActiveCfg = Debug|x86
+		{9370BA41-A31F-4B41-BCEC-F54EB39FB6BF}.Debug|x86.Build.0 = Debug|x86
+		{9370BA41-A31F-4B41-BCEC-F54EB39FB6BF}.Release|x86.ActiveCfg = Release|x86
+		{9370BA41-A31F-4B41-BCEC-F54EB39FB6BF}.Release|x86.Build.0 = Release|x86
+		{799C080D-E5D8-480C-8FD1-5B3697E8CEE0}.Debug|x86.ActiveCfg = Debug|x86
+		{799C080D-E5D8-480C-8FD1-5B3697E8CEE0}.Debug|x86.Build.0 = Debug|x86
+		{799C080D-E5D8-480C-8FD1-5B3697E8CEE0}.Release|x86.ActiveCfg = Release|x86
+		{799C080D-E5D8-480C-8FD1-5B3697E8CEE0}.Release|x86.Build.0 = Release|x86
+		{B5BEA7E6-8FB2-4BA6-8AA8-95D20099A117}.Debug|x86.ActiveCfg = Debug|x86
+		{B5BEA7E6-8FB2-4BA6-8AA8-95D20099A117}.Debug|x86.Build.0 = Debug|x86
+		{B5BEA7E6-8FB2-4BA6-8AA8-95D20099A117}.Release|x86.ActiveCfg = Release|x86
+		{B5BEA7E6-8FB2-4BA6-8AA8-95D20099A117}.Release|x86.Build.0 = Release|x86
+		{F7F788E2-D4D0-4619-8146-59C849FA09A4}.Debug|x86.ActiveCfg = Debug|x86
+		{F7F788E2-D4D0-4619-8146-59C849FA09A4}.Debug|x86.Build.0 = Debug|x86
+		{F7F788E2-D4D0-4619-8146-59C849FA09A4}.Release|x86.ActiveCfg = Release|x86
+		{F7F788E2-D4D0-4619-8146-59C849FA09A4}.Release|x86.Build.0 = Release|x86
+		{2D23267B-BC8A-4082-A8B2-E29FF0B18EEA}.Debug|x86.ActiveCfg = Debug|x86
+		{2D23267B-BC8A-4082-A8B2-E29FF0B18EEA}.Debug|x86.Build.0 = Debug|x86
+		{2D23267B-BC8A-4082-A8B2-E29FF0B18EEA}.Release|x86.ActiveCfg = Release|x86
+		{2D23267B-BC8A-4082-A8B2-E29FF0B18EEA}.Release|x86.Build.0 = Release|x86
+		{366F32B7-50B8-4752-87B0-9BB6B4B96009}.Debug|x86.ActiveCfg = Debug|x86
+		{366F32B7-50B8-4752-87B0-9BB6B4B96009}.Debug|x86.Build.0 = Debug|x86
+		{366F32B7-50B8-4752-87B0-9BB6B4B96009}.Release|x86.ActiveCfg = Release|x86
+		{366F32B7-50B8-4752-87B0-9BB6B4B96009}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

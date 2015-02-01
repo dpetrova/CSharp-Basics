@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\12.CountOfNames\bin\Debug\12.CountOfNames.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\12.CountOfNames\obj\x86\Debug\12.CountOfNames.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\12.CountOfNames\obj\x86\Debug\12.CountOfNames.pdb

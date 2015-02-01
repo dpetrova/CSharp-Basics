@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\02.LettersSymbolsNumbers\obj\x86\Debug\02.LettersSymbolsNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\02.LettersSymbolsNumbers\obj\x86\Debug\02.LettersSymbolsNumbers.pdb

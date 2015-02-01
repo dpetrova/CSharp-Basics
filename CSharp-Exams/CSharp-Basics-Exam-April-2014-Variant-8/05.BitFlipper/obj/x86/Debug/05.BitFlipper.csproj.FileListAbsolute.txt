@@ -1,0 +1,4 @@
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\05.BitFlipper\bin\Debug\05.BitFlipper.exe
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\05.BitFlipper\bin\Debug\05.BitFlipper.pdb
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\05.BitFlipper\obj\x86\Debug\05.BitFlipper.exe
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\05.BitFlipper\obj\x86\Debug\05.BitFlipper.pdb

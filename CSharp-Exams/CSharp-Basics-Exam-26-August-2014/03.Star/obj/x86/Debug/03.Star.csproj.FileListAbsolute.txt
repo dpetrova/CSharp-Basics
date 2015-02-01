@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\03.Star\bin\Debug\03.Star.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\03.Star\bin\Debug\03.Star.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\03.Star\obj\x86\Debug\03.Star.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\03.Star\obj\x86\Debug\03.Star.pdb

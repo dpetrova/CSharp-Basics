@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\05.TheBiggestOf3Numbers\obj\x86\Debug\05.TheBiggestOf3Numbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\05.TheBiggestOf3Numbers\obj\x86\Debug\05.TheBiggestOf3Numbers.pdb

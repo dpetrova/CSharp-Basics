@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\03.Rocklq\bin\Debug\03.Rocklq.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\03.Rocklq\bin\Debug\03.Rocklq.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\03.Rocklq\obj\x86\Debug\03.Rocklq.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\03.Rocklq\obj\x86\Debug\03.Rocklq.pdb

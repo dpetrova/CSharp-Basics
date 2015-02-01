@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\09.Trapezoids\obj\x86\Debug\09.Trapezoids.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\09.Trapezoids\obj\x86\Debug\09.Trapezoids.pdb

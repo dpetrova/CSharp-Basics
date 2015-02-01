@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\04.MagicDates\bin\Debug\04.MagicDates.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\04.MagicDates\bin\Debug\04.MagicDates.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\04.MagicDates\obj\x86\Debug\04.MagicDates.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\04.MagicDates\obj\x86\Debug\04.MagicDates.pdb

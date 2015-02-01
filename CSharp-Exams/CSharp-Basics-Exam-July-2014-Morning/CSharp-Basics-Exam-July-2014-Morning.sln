@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MelonsAndWatermelons", "01.MelonsAndWatermelons\01.MelonsAndWatermelons.csproj", "{EE905E8C-9E81-4F08-A851-0EDB9C89705C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LettersSymbolsNumbers", "02.LettersSymbolsNumbers\02.LettersSymbolsNumbers.csproj", "{31E56828-8204-4893-9108-1E01F632B7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PandaScotlandFlag", "03.PandaScotlandFlag\03.PandaScotlandFlag.csproj", "{3457332C-82AA-44F7-9E03-6AF524C0D394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MorseCodeNumbers", "04.MorseCodeNumbers\04.MorseCodeNumbers.csproj", "{CDE0E15F-48BB-4DAE-8A6F-479F092103BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BitPaths", "05.BitPaths\05.BitPaths.csproj", "{616E0B34-E7D6-4E91-AD1D-CEEB29F4D8B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE905E8C-9E81-4F08-A851-0EDB9C89705C}.Debug|x86.ActiveCfg = Debug|x86
+		{EE905E8C-9E81-4F08-A851-0EDB9C89705C}.Debug|x86.Build.0 = Debug|x86
+		{EE905E8C-9E81-4F08-A851-0EDB9C89705C}.Release|x86.ActiveCfg = Release|x86
+		{EE905E8C-9E81-4F08-A851-0EDB9C89705C}.Release|x86.Build.0 = Release|x86
+		{31E56828-8204-4893-9108-1E01F632B7AA}.Debug|x86.ActiveCfg = Debug|x86
+		{31E56828-8204-4893-9108-1E01F632B7AA}.Debug|x86.Build.0 = Debug|x86
+		{31E56828-8204-4893-9108-1E01F632B7AA}.Release|x86.ActiveCfg = Release|x86
+		{31E56828-8204-4893-9108-1E01F632B7AA}.Release|x86.Build.0 = Release|x86
+		{3457332C-82AA-44F7-9E03-6AF524C0D394}.Debug|x86.ActiveCfg = Debug|x86
+		{3457332C-82AA-44F7-9E03-6AF524C0D394}.Debug|x86.Build.0 = Debug|x86
+		{3457332C-82AA-44F7-9E03-6AF524C0D394}.Release|x86.ActiveCfg = Release|x86
+		{3457332C-82AA-44F7-9E03-6AF524C0D394}.Release|x86.Build.0 = Release|x86
+		{CDE0E15F-48BB-4DAE-8A6F-479F092103BA}.Debug|x86.ActiveCfg = Debug|x86
+		{CDE0E15F-48BB-4DAE-8A6F-479F092103BA}.Debug|x86.Build.0 = Debug|x86
+		{CDE0E15F-48BB-4DAE-8A6F-479F092103BA}.Release|x86.ActiveCfg = Release|x86
+		{CDE0E15F-48BB-4DAE-8A6F-479F092103BA}.Release|x86.Build.0 = Release|x86
+		{616E0B34-E7D6-4E91-AD1D-CEEB29F4D8B4}.Debug|x86.ActiveCfg = Debug|x86
+		{616E0B34-E7D6-4E91-AD1D-CEEB29F4D8B4}.Debug|x86.Build.0 = Debug|x86
+		{616E0B34-E7D6-4E91-AD1D-CEEB29F4D8B4}.Release|x86.ActiveCfg = Release|x86
+		{616E0B34-E7D6-4E91-AD1D-CEEB29F4D8B4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

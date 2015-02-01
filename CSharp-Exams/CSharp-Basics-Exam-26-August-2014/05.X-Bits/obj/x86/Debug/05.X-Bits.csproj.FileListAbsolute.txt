@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\05.X-Bits\bin\Debug\05.X-Bits.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\05.X-Bits\bin\Debug\05.X-Bits.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\05.X-Bits\obj\x86\Debug\05.X-Bits.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-26-August-2014\05.X-Bits\obj\x86\Debug\05.X-Bits.pdb

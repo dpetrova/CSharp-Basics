@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\08.Diamonds\bin\Debug\08.Diamonds.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\08.Diamonds\bin\Debug\08.Diamonds.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\08.Diamonds\obj\x86\Debug\08.Diamonds.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\08.Diamonds\obj\x86\Debug\08.Diamonds.pdb

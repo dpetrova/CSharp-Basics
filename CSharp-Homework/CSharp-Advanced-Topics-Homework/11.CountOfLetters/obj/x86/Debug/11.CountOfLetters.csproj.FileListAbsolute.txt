@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\x86\Debug\11.CountOfLetters.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\x86\Debug\11.CountOfLetters.pdb

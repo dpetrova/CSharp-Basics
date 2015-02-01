@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\19.SpiralMatrix\obj\x86\Debug\19.SpiralMatrix.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\19.SpiralMatrix\obj\x86\Debug\19.SpiralMatrix.pdb

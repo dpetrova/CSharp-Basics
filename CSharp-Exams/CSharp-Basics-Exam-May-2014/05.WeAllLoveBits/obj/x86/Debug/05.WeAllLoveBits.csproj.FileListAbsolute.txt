@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\05.WeAllLoveBits\bin\Debug\05.WeAllLoveBits.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\05.WeAllLoveBits\bin\Debug\05.WeAllLoveBits.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\05.WeAllLoveBits\obj\x86\Debug\05.WeAllLoveBits.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\05.WeAllLoveBits\obj\x86\Debug\05.WeAllLoveBits.pdb

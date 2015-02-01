@@ -1,0 +1,5 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-25-July-2014-Evening\01.Electricity\bin\Debug\01.Electricity.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-25-July-2014-Evening\01.Electricity\bin\Debug\01.Electricity.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-25-July-2014-Evening\01.Electricity\obj\x86\Debug\01.Electricity.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-25-July-2014-Evening\01.Electricity\obj\x86\Debug\01.Electricity.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-25-July-2014-Evening\01.Electricity\obj\x86\Debug\01.Electricity.csprojResolveAssemblyReference.cache

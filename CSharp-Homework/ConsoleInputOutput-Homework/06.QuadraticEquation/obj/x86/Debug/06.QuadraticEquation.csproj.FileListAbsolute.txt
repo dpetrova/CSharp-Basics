@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\06.QuadraticEquation\obj\x86\Debug\06.QuadraticEquation.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\06.QuadraticEquation\obj\x86\Debug\06.QuadraticEquation.pdb

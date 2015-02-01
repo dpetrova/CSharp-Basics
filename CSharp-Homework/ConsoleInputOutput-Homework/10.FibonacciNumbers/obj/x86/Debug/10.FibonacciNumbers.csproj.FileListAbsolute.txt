@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\10.FibonacciNumbers\obj\x86\Debug\10.FibonacciNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\10.FibonacciNumbers\obj\x86\Debug\10.FibonacciNumbers.pdb

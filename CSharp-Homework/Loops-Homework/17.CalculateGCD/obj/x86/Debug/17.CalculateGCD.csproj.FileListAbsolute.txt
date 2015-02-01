@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\17.CalculateGCD\obj\x86\Debug\17.CalculateGCD.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\17.CalculateGCD\obj\x86\Debug\17.CalculateGCD.pdb

@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\08.IsoscelesTriangle\obj\x86\Debug\08.IsoscelesTriangle.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\08.IsoscelesTriangle\obj\x86\Debug\08.IsoscelesTriangle.pdb

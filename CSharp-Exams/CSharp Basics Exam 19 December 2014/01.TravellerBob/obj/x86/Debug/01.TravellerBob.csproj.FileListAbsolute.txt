@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\01.TravellerBob\bin\Debug\01.TravellerBob.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\01.TravellerBob\bin\Debug\01.TravellerBob.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\01.TravellerBob\obj\x86\Debug\01.TravellerBob.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\01.TravellerBob\obj\x86\Debug\01.TravellerBob.pdb

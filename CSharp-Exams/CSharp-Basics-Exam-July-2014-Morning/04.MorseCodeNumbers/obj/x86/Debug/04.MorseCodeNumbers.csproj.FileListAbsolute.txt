@@ -1,0 +1,5 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\04.MorseCodeNumbers\bin\Debug\04.MorseCodeNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\04.MorseCodeNumbers\bin\Debug\04.MorseCodeNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\04.MorseCodeNumbers\obj\x86\Debug\04.MorseCodeNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\04.MorseCodeNumbers\obj\x86\Debug\04.MorseCodeNumbers.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\04.MorseCodeNumbers\obj\x86\Debug\04.MorseCodeNumbers.csprojResolveAssemblyReference.cache

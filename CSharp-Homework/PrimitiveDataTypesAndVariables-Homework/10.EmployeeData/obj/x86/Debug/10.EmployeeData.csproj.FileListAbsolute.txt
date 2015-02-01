@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\10.EmployeeData\obj\x86\Debug\10.EmployeeData.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\10.EmployeeData\obj\x86\Debug\10.EmployeeData.pdb

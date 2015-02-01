@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\01.WorkHours\bin\Debug\01.WorkHours.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\01.WorkHours\bin\Debug\01.WorkHours.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\01.WorkHours\obj\x86\Debug\01.WorkHours.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\01.WorkHours\obj\x86\Debug\01.WorkHours.pdb

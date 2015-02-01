@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\01.Tables\bin\Debug\01.Tables.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\01.Tables\bin\Debug\01.Tables.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\01.Tables\obj\x86\Debug\01.Tables.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\01.Tables\obj\x86\Debug\01.Tables.pdb

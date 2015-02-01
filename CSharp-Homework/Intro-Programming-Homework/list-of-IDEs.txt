@@ -1,0 +1,44 @@
+Integrated Development Environments
+
+Microsoft Visual Studio
+Visual Studio products cover languages like C++, C# and VB.NET. In addition, you are also able to develop for the Windows x86, Windows RT, and Windows Phone. This IDE is mostly used by corporate programmers to produce .NET code. Sometimes people want to try the product without investing thousands of dollars first, so Microsoft has the Express editions for all of their products. This makes it perfect for casual users. Advantages:
+* Intellisense:- it is Microsoft’s way to make programming in .NET as painless as possible (for example suggestion boxes that notify the user what methods and functions are available and what exactly the method does and how many and what parameters are needed);
+* Automatic code formatting;
+* Extensibility: Something that you don’t like about Visual Studio? Code a new tool for it or use one of the many available fixes for things that developers didn’t like using Visual Studio Gallery;
+* Compiles Code.
+Disadvantages:
+* CPU Hog (when running Visual Studio it is a must that you have plenty of RAM to spare);
+* Overwhelming GUI;
+* Cost.
+
+Oracle Netbeans
+If you are more of a Java developer, Oracle's got your back with their Netbeans IDE. Of course, despite the fact that excellent Java support is its claim to fame going as far back as the Sun Microsystems days, other languages like C/C++, Ruby, HTML5, PHP and more are supported as well. Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support and libraries, among other things. When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment. This server is the second biggest server for Java next to WebSphere. Advantages:
+* Extensible: instead of having multiple programs for multiple different languages combining them into one program;
+* Compiles Code;
+* Free.
+Disadvantages:
+* Bloated: While using this program you may notice that your computer slows down, throws errors in your program that you didn’t know existed etc. 
+
+Eclipse
+This is the best alternative of Microsoft’s Visual Studio. The interface is a lot cleaner and concise than Visual Studio and it is fully extensible to use languages such as Ruby, C, C++ and many more. This IDE is quite comprehensive and even similar to Netbeans in a variety of ways, including its use of Java and plugin architecture. Also, the ability to use this on Linux is a great sway for many people who don’t like to be bound by Microsoft’s operating systems and like full control of their OS. Advantages:
+* Language Extensibility; 
+* Fully customizable;
+* Free;
+* Compiles Code.
+Disadvantages:
+* Steep Learning Curve: with so much available to upgrade and add on, the learning curve of eclipse will be quite steep.
+
+Komodo IDE
+Komodo IDE is a paid IDE from the ActiveState,a famous Mozilla Project. Komodo supports many languages which include Perl, PHP, Python, C, C++, Javascript, CSS, HTML, XML,and some more…With improved toolbox and quite fast processing speed this can be a good IDE to work on.
+
+Monodevelop
+MonoDevelop is an IDE primarily designed for C# and other .NET languages. MonoDevelop enables developers to quickly write desktop and ASP.NET Web applications .With its features like integrated debugger, code completion for C,C# & being easily customizable this IDE is quite easy to work on.
+
+Aptana
+If web and scripting languages are more of your style, Aptana is well suited for the task. Aptana Studio supports JAVA,HTML,CSS, PHP, Ruby etc…It has the features like code completion ,outlining, Javascript Debugging, error and warning notification and integrated documentation .Aptana Studio is based on Eclipse and is available as standalone on Windows ,Mac & linux, or as a plug-in for Eclipse. Aptana Studio 3 is free and available solely under the GNU General Public License.
+
+QtCreator
+Qt Creator allows developers to create applications for multiple desktop and mobile device platforms. It has a visual debugger and an integrated GUI layout,forms designer, syntax highlighting and autocompletion.Predominantly used for C and C#.
+
+Code::Blocks
+Code::Blocks is a widely used IDE, exceptionally lightweight in size, yet still quite functional and feature-rich IDE. Its users are mostly those who are using C/C++ but it can be extended for other languages with plug-ins. Code::Blocks also takes advantage of multi-core compiling, allowing you to get the job done faster. Code::Blocks is distributed under the GPL v3.0 license which means it can be used freely by anyone.

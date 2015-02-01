@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\02.OddOrEvenSum\bin\Debug\02.OddOrEvenSum.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\02.OddOrEvenSum\bin\Debug\02.OddOrEvenSum.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\02.OddOrEvenSum\obj\x86\Debug\02.OddOrEvenSum.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\02.OddOrEvenSum\obj\x86\Debug\02.OddOrEvenSum.pdb

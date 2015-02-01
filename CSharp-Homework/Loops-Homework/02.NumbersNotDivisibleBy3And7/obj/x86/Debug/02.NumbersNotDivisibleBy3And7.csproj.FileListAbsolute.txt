@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\02.NumbersNotDivisibleBy3And7\obj\x86\Debug\02.NumbersNotDivisibleBy3And7.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\02.NumbersNotDivisibleBy3And7\obj\x86\Debug\02.NumbersNotDivisibleBy3And7.pdb

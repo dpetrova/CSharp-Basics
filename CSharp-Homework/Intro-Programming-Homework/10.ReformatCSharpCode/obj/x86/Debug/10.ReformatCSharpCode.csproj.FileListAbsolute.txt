@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\10.ReformatCSharpCode\obj\x86\Debug\10.ReformatCSharpCode.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\10.ReformatCSharpCode\obj\x86\Debug\10.ReformatCSharpCode.pdb

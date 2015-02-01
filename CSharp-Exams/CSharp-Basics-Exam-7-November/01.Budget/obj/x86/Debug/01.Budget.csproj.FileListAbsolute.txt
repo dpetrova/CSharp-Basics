@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\01.Budget\bin\Debug\01.Budget.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\01.Budget\bin\Debug\01.Budget.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\01.Budget\obj\x86\Debug\01.Budget.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\01.Budget\obj\x86\Debug\01.Budget.pdb

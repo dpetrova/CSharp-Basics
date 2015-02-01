@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\07.CalculateCombinations\obj\x86\Debug\07.CalculateCombinations.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\07.CalculateCombinations\obj\x86\Debug\07.CalculateCombinations.pdb

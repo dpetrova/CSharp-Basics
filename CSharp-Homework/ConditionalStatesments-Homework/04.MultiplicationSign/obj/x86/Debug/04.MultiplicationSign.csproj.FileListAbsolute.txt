@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\04.MultiplicationSign\obj\x86\Debug\04.MultiplicationSign.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\04.MultiplicationSign\obj\x86\Debug\04.MultiplicationSign.pdb

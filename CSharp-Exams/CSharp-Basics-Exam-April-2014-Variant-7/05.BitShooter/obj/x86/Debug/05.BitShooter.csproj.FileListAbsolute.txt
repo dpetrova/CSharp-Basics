@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\05.BitShooter\bin\Debug\05.BitShooter.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\05.BitShooter\bin\Debug\05.BitShooter.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\05.BitShooter\obj\x86\Debug\05.BitShooter.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\05.BitShooter\obj\x86\Debug\05.BitShooter.pdb

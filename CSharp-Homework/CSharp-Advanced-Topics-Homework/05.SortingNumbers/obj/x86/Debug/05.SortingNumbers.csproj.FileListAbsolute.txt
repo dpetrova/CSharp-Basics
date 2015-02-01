@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\05.SortingNumbers\obj\x86\Debug\05.SortingNumbers.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\05.SortingNumbers\obj\x86\Debug\05.SortingNumbers.pdb

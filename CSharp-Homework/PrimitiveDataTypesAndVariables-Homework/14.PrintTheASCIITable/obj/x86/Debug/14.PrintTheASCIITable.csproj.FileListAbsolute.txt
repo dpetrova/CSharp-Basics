@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\14.PrintTheASCIITable\obj\x86\Debug\14.PrintTheASCIITable.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\14.PrintTheASCIITable\obj\x86\Debug\14.PrintTheASCIITable.pdb

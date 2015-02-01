@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\13.AverageLoadTimeCalculator\obj\x86\Debug\13.AverageLoadTimeCalculator.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\13.AverageLoadTimeCalculator\obj\x86\Debug\13.AverageLoadTimeCalculator.pdb

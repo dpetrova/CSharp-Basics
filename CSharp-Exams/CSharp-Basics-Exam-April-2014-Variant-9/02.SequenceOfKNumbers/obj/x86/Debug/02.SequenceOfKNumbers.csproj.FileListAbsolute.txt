@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\02.SequenceOfKNumbers\bin\Debug\02.SequenceOfKNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\02.SequenceOfKNumbers\bin\Debug\02.SequenceOfKNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\02.SequenceOfKNumbers\obj\x86\Debug\02.SequenceOfKNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\02.SequenceOfKNumbers\obj\x86\Debug\02.SequenceOfKNumbers.pdb

@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\05.FormattingNumbers\obj\x86\Debug\05.FormattingNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\05.FormattingNumbers\obj\x86\Debug\05.FormattingNumbers.pdb

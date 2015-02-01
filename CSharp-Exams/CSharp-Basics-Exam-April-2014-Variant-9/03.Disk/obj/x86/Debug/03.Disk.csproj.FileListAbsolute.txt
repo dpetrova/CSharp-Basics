@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\03.Disk\bin\Debug\03.Disk.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\03.Disk\bin\Debug\03.Disk.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\03.Disk\obj\x86\Debug\03.Disk.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\03.Disk\obj\x86\Debug\03.Disk.pdb

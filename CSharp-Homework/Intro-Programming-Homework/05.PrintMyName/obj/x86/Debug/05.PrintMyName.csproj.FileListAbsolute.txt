@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\05.PrintMyName\obj\x86\Debug\05.PrintMyName.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\05.PrintMyName\obj\x86\Debug\05.PrintMyName.pdb

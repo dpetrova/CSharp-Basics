@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\04.Tetris\bin\Debug\04.Tetris.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\04.Tetris\bin\Debug\04.Tetris.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\04.Tetris\obj\x86\Debug\04.Tetris.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\04.Tetris\obj\x86\Debug\04.Tetris.pdb

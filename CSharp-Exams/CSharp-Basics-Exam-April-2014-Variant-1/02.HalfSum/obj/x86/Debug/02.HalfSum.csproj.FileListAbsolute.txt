@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\02.HalfSum\bin\Debug\02.HalfSum.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\02.HalfSum\bin\Debug\02.HalfSum.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\02.HalfSum\obj\x86\Debug\02.HalfSum.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\02.HalfSum\obj\x86\Debug\02.HalfSum.pdb

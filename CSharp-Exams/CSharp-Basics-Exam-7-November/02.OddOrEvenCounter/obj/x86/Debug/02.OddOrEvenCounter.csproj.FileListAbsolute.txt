@@ -1,0 +1,5 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\02.OddOrEvenCounter\bin\Debug\02.OddOrEvenCounter.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\02.OddOrEvenCounter\bin\Debug\02.OddOrEvenCounter.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\02.OddOrEvenCounter\obj\x86\Debug\02.OddOrEvenCounter.csprojResolveAssemblyReference.cache
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\02.OddOrEvenCounter\obj\x86\Debug\02.OddOrEvenCounter.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\02.OddOrEvenCounter\obj\x86\Debug\02.OddOrEvenCounter.pdb

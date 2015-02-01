@@ -1,0 +1,4 @@
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.pdb
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\03.ProgrammerDNA\obj\x86\Debug\03.ProgrammerDNA.exe
+c:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\03.ProgrammerDNA\obj\x86\Debug\03.ProgrammerDNA.pdb

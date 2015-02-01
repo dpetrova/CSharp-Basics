@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-6\01.ExamSchedule\bin\Debug\01.ExamSchedule.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-6\01.ExamSchedule\bin\Debug\01.ExamSchedule.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-6\01.ExamSchedule\obj\x86\Debug\01.ExamSchedule.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-6\01.ExamSchedule\obj\x86\Debug\01.ExamSchedule.pdb

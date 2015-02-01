@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\01.BabaTincheAirlines\bin\Debug\01.BabaTincheAirlines.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\01.BabaTincheAirlines\bin\Debug\01.BabaTincheAirlines.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\01.BabaTincheAirlines\obj\x86\Debug\01.BabaTincheAirlines.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\01.BabaTincheAirlines\obj\x86\Debug\01.BabaTincheAirlines.pdb

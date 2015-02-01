@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\01.Triangle\bin\Debug\01.Triangle.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\01.Triangle\bin\Debug\01.Triangle.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\01.Triangle\obj\x86\Debug\01.Triangle.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\01.Triangle\obj\x86\Debug\01.Triangle.pdb

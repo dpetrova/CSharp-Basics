@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\04.HayvanNumbers\bin\Debug\04.HayvanNumbers.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\04.HayvanNumbers\bin\Debug\04.HayvanNumbers.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\04.HayvanNumbers\obj\x86\Debug\04.HayvanNumbers.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\04.HayvanNumbers\obj\x86\Debug\04.HayvanNumbers.pdb

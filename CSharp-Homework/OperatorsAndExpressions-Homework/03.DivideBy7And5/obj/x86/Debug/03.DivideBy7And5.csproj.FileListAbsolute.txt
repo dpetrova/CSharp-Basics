@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\OperatorsAndExpressions-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\OperatorsAndExpressions-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\OperatorsAndExpressions-Homework\03.DivideBy7And5\obj\x86\Debug\03.DivideBy7And5.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\OperatorsAndExpressions-Homework\03.DivideBy7And5\obj\x86\Debug\03.DivideBy7And5.pdb

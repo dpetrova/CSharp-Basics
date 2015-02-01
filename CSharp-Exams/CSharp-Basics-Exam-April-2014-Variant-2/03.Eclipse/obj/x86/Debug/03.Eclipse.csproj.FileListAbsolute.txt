@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\03.Eclipse\bin\Debug\03.Eclipse.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\03.Eclipse\bin\Debug\03.Eclipse.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\03.Eclipse\obj\x86\Debug\03.Eclipse.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\03.Eclipse\obj\x86\Debug\03.Eclipse.pdb

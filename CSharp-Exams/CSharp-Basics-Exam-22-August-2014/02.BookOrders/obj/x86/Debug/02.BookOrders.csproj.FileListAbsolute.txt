@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\02.BookOrders\bin\Debug\02.BookOrders.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\02.BookOrders\bin\Debug\02.BookOrders.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\02.BookOrders\obj\x86\Debug\02.BookOrders.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\02.BookOrders\obj\x86\Debug\02.BookOrders.pdb

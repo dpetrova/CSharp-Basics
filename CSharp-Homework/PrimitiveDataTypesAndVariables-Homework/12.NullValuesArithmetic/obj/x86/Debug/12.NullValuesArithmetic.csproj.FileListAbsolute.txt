@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\12.NullValuesArithmetic\obj\x86\Debug\12.NullValuesArithmetic.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\PrimitiveDataTypesAndVariables-Homework\12.NullValuesArithmetic\obj\x86\Debug\12.NullValuesArithmetic.pdb

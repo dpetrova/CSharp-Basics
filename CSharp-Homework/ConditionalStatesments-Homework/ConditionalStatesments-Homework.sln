@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ExchangeIfGreater", "01.ExchangeIfGreater\01.ExchangeIfGreater.csproj", "{5530B456-B6C4-49A9-9003-39F49BBCD5BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BonusScore", "02.BonusScore\02.BonusScore.csproj", "{FB65F39D-1CC8-454B-9894-D1351B887E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CheckForAPlayCard", "03.CheckForAPlayCard\03.CheckForAPlayCard.csproj", "{3B005178-D981-448F-8F6E-1130A3402B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MultiplicationSign", "04.MultiplicationSign\04.MultiplicationSign.csproj", "{C9A4A47D-F806-4F2A-A84A-98D152B450B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.TheBiggestOf3Numbers", "05.TheBiggestOf3Numbers\05.TheBiggestOf3Numbers.csproj", "{ABD552A9-5313-4FE8-B206-26DB59EB3391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TheBiggestOfFiveNumbers", "06.TheBiggestOfFiveNumbers\06.TheBiggestOfFiveNumbers.csproj", "{C2590196-39A5-4D01-8782-C3AAA4C9F940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Sort3NumbersWithNestedIfs", "07.Sort3NumbersWithNestedIfs\07.Sort3NumbersWithNestedIfs.csproj", "{062AC7B5-0662-4772-A86D-8965E061257D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.DigitAsWord", "08.DigitAsWord\08.DigitAsWord.csproj", "{0FCB33D4-8252-4C3F-BAF2-2C0371A8F177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PlayWithIntDoubleAndString", "09.PlayWithIntDoubleAndString\09.PlayWithIntDoubleAndString.csproj", "{A1F42188-2A6A-46EF-A28D-FA3CDA7CDEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.BeerTime", "10.BeerTime\10.BeerTime.csproj", "{0D0F87FD-6A79-46FF-9A12-9C5EDBDCBE38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.NumberAsWords", "11.NumberAsWords\11.NumberAsWords.csproj", "{21F9ED61-CD1B-4392-B908-75C2E02C0F8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ZeroSubset", "12.ZeroSubset\12.ZeroSubset.csproj", "{39B7B5EF-77B8-48F6-B8EE-E98DF140B18F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5530B456-B6C4-49A9-9003-39F49BBCD5BA}.Debug|x86.ActiveCfg = Debug|x86
+		{5530B456-B6C4-49A9-9003-39F49BBCD5BA}.Debug|x86.Build.0 = Debug|x86
+		{5530B456-B6C4-49A9-9003-39F49BBCD5BA}.Release|x86.ActiveCfg = Release|x86
+		{5530B456-B6C4-49A9-9003-39F49BBCD5BA}.Release|x86.Build.0 = Release|x86
+		{FB65F39D-1CC8-454B-9894-D1351B887E21}.Debug|x86.ActiveCfg = Debug|x86
+		{FB65F39D-1CC8-454B-9894-D1351B887E21}.Debug|x86.Build.0 = Debug|x86
+		{FB65F39D-1CC8-454B-9894-D1351B887E21}.Release|x86.ActiveCfg = Release|x86
+		{FB65F39D-1CC8-454B-9894-D1351B887E21}.Release|x86.Build.0 = Release|x86
+		{3B005178-D981-448F-8F6E-1130A3402B97}.Debug|x86.ActiveCfg = Debug|x86
+		{3B005178-D981-448F-8F6E-1130A3402B97}.Debug|x86.Build.0 = Debug|x86
+		{3B005178-D981-448F-8F6E-1130A3402B97}.Release|x86.ActiveCfg = Release|x86
+		{3B005178-D981-448F-8F6E-1130A3402B97}.Release|x86.Build.0 = Release|x86
+		{C9A4A47D-F806-4F2A-A84A-98D152B450B0}.Debug|x86.ActiveCfg = Debug|x86
+		{C9A4A47D-F806-4F2A-A84A-98D152B450B0}.Debug|x86.Build.0 = Debug|x86
+		{C9A4A47D-F806-4F2A-A84A-98D152B450B0}.Release|x86.ActiveCfg = Release|x86
+		{C9A4A47D-F806-4F2A-A84A-98D152B450B0}.Release|x86.Build.0 = Release|x86
+		{ABD552A9-5313-4FE8-B206-26DB59EB3391}.Debug|x86.ActiveCfg = Debug|x86
+		{ABD552A9-5313-4FE8-B206-26DB59EB3391}.Debug|x86.Build.0 = Debug|x86
+		{ABD552A9-5313-4FE8-B206-26DB59EB3391}.Release|x86.ActiveCfg = Release|x86
+		{ABD552A9-5313-4FE8-B206-26DB59EB3391}.Release|x86.Build.0 = Release|x86
+		{C2590196-39A5-4D01-8782-C3AAA4C9F940}.Debug|x86.ActiveCfg = Debug|x86
+		{C2590196-39A5-4D01-8782-C3AAA4C9F940}.Debug|x86.Build.0 = Debug|x86
+		{C2590196-39A5-4D01-8782-C3AAA4C9F940}.Release|x86.ActiveCfg = Release|x86
+		{C2590196-39A5-4D01-8782-C3AAA4C9F940}.Release|x86.Build.0 = Release|x86
+		{062AC7B5-0662-4772-A86D-8965E061257D}.Debug|x86.ActiveCfg = Debug|x86
+		{062AC7B5-0662-4772-A86D-8965E061257D}.Debug|x86.Build.0 = Debug|x86
+		{062AC7B5-0662-4772-A86D-8965E061257D}.Release|x86.ActiveCfg = Release|x86
+		{062AC7B5-0662-4772-A86D-8965E061257D}.Release|x86.Build.0 = Release|x86
+		{0FCB33D4-8252-4C3F-BAF2-2C0371A8F177}.Debug|x86.ActiveCfg = Debug|x86
+		{0FCB33D4-8252-4C3F-BAF2-2C0371A8F177}.Debug|x86.Build.0 = Debug|x86
+		{0FCB33D4-8252-4C3F-BAF2-2C0371A8F177}.Release|x86.ActiveCfg = Release|x86
+		{0FCB33D4-8252-4C3F-BAF2-2C0371A8F177}.Release|x86.Build.0 = Release|x86
+		{A1F42188-2A6A-46EF-A28D-FA3CDA7CDEF0}.Debug|x86.ActiveCfg = Debug|x86
+		{A1F42188-2A6A-46EF-A28D-FA3CDA7CDEF0}.Debug|x86.Build.0 = Debug|x86
+		{A1F42188-2A6A-46EF-A28D-FA3CDA7CDEF0}.Release|x86.ActiveCfg = Release|x86
+		{A1F42188-2A6A-46EF-A28D-FA3CDA7CDEF0}.Release|x86.Build.0 = Release|x86
+		{0D0F87FD-6A79-46FF-9A12-9C5EDBDCBE38}.Debug|x86.ActiveCfg = Debug|x86
+		{0D0F87FD-6A79-46FF-9A12-9C5EDBDCBE38}.Debug|x86.Build.0 = Debug|x86
+		{0D0F87FD-6A79-46FF-9A12-9C5EDBDCBE38}.Release|x86.ActiveCfg = Release|x86
+		{0D0F87FD-6A79-46FF-9A12-9C5EDBDCBE38}.Release|x86.Build.0 = Release|x86
+		{21F9ED61-CD1B-4392-B908-75C2E02C0F8B}.Debug|x86.ActiveCfg = Debug|x86
+		{21F9ED61-CD1B-4392-B908-75C2E02C0F8B}.Debug|x86.Build.0 = Debug|x86
+		{21F9ED61-CD1B-4392-B908-75C2E02C0F8B}.Release|x86.ActiveCfg = Release|x86
+		{21F9ED61-CD1B-4392-B908-75C2E02C0F8B}.Release|x86.Build.0 = Release|x86
+		{39B7B5EF-77B8-48F6-B8EE-E98DF140B18F}.Debug|x86.ActiveCfg = Debug|x86
+		{39B7B5EF-77B8-48F6-B8EE-E98DF140B18F}.Debug|x86.Build.0 = Debug|x86
+		{39B7B5EF-77B8-48F6-B8EE-E98DF140B18F}.Release|x86.ActiveCfg = Release|x86
+		{39B7B5EF-77B8-48F6-B8EE-E98DF140B18F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

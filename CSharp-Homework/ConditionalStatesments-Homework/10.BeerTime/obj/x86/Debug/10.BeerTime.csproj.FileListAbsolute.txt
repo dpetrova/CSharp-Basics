@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\10.BeerTime\bin\Debug\10.BeerTime.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\10.BeerTime\bin\Debug\10.BeerTime.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\10.BeerTime\obj\x86\Debug\10.BeerTime.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\10.BeerTime\obj\x86\Debug\10.BeerTime.pdb

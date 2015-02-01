@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\01.Cinema\bin\Debug\01.Cinema.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\01.Cinema\bin\Debug\01.Cinema.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\01.Cinema\obj\x86\Debug\01.Cinema.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\01.Cinema\obj\x86\Debug\01.Cinema.pdb

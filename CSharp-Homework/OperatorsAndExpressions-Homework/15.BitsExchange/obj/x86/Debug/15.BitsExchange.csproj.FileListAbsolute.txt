@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\15.BitsExchange\obj\x86\Debug\15.BitsExchange.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\15.BitsExchange\obj\x86\Debug\15.BitsExchange.pdb

@@ -1,0 +1,5 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\05.PaintBall\bin\Debug\05.PaintBall.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\05.PaintBall\bin\Debug\05.PaintBall.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\05.PaintBall\obj\x86\Debug\05.PaintBall.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\05.PaintBall\obj\x86\Debug\05.PaintBall.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\05.PaintBall\obj\x86\Debug\05.PaintBall.csprojResolveAssemblyReference.cache

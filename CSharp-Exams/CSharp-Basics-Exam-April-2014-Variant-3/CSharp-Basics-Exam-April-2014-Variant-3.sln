@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WorkHours", "01.WorkHours\01.WorkHours.csproj", "{089B065D-F5BF-4768-9363-59C17AF26321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumOfElements", "02.SumOfElements\02.SumOfElements.csproj", "{598E0DB3-98A4-4A71-87D7-3F66A60FDAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TheExplorer", "03.TheExplorer\03.TheExplorer.csproj", "{80A692D5-F9A1-4FDB-88C2-2D1C4FCA77AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MagicStrings - SLOW", "04.MagicStrings\04.MagicStrings - SLOW.csproj", "{DC6ECEA5-2573-42E8-BFF2-1F041D28B37F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MagicStrings - FAST", "04.MagicStrings - FAST\04.MagicStrings - FAST.csproj", "{FDD8A92D-E46B-4031-8002-6C13677A3F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BitSifting", "05.BitSifting\05.BitSifting.csproj", "{65222B3D-7431-4E06-B6F4-668BC81D8699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089B065D-F5BF-4768-9363-59C17AF26321}.Debug|x86.ActiveCfg = Debug|x86
+		{089B065D-F5BF-4768-9363-59C17AF26321}.Debug|x86.Build.0 = Debug|x86
+		{089B065D-F5BF-4768-9363-59C17AF26321}.Release|x86.ActiveCfg = Release|x86
+		{089B065D-F5BF-4768-9363-59C17AF26321}.Release|x86.Build.0 = Release|x86
+		{598E0DB3-98A4-4A71-87D7-3F66A60FDAA3}.Debug|x86.ActiveCfg = Debug|x86
+		{598E0DB3-98A4-4A71-87D7-3F66A60FDAA3}.Debug|x86.Build.0 = Debug|x86
+		{598E0DB3-98A4-4A71-87D7-3F66A60FDAA3}.Release|x86.ActiveCfg = Release|x86
+		{598E0DB3-98A4-4A71-87D7-3F66A60FDAA3}.Release|x86.Build.0 = Release|x86
+		{80A692D5-F9A1-4FDB-88C2-2D1C4FCA77AA}.Debug|x86.ActiveCfg = Debug|x86
+		{80A692D5-F9A1-4FDB-88C2-2D1C4FCA77AA}.Debug|x86.Build.0 = Debug|x86
+		{80A692D5-F9A1-4FDB-88C2-2D1C4FCA77AA}.Release|x86.ActiveCfg = Release|x86
+		{80A692D5-F9A1-4FDB-88C2-2D1C4FCA77AA}.Release|x86.Build.0 = Release|x86
+		{DC6ECEA5-2573-42E8-BFF2-1F041D28B37F}.Debug|x86.ActiveCfg = Debug|x86
+		{DC6ECEA5-2573-42E8-BFF2-1F041D28B37F}.Debug|x86.Build.0 = Debug|x86
+		{DC6ECEA5-2573-42E8-BFF2-1F041D28B37F}.Release|x86.ActiveCfg = Release|x86
+		{DC6ECEA5-2573-42E8-BFF2-1F041D28B37F}.Release|x86.Build.0 = Release|x86
+		{FDD8A92D-E46B-4031-8002-6C13677A3F0A}.Debug|x86.ActiveCfg = Debug|x86
+		{FDD8A92D-E46B-4031-8002-6C13677A3F0A}.Debug|x86.Build.0 = Debug|x86
+		{FDD8A92D-E46B-4031-8002-6C13677A3F0A}.Release|x86.ActiveCfg = Release|x86
+		{FDD8A92D-E46B-4031-8002-6C13677A3F0A}.Release|x86.Build.0 = Release|x86
+		{65222B3D-7431-4E06-B6F4-668BC81D8699}.Debug|x86.ActiveCfg = Debug|x86
+		{65222B3D-7431-4E06-B6F4-668BC81D8699}.Debug|x86.Build.0 = Debug|x86
+		{65222B3D-7431-4E06-B6F4-668BC81D8699}.Release|x86.ActiveCfg = Release|x86
+		{65222B3D-7431-4E06-B6F4-668BC81D8699}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

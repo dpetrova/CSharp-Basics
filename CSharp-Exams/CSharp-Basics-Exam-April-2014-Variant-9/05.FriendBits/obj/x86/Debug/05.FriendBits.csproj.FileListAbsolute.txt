@@ -1,0 +1,5 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\05.FriendBits\bin\Debug\05.FriendBits.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\05.FriendBits\bin\Debug\05.FriendBits.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\05.FriendBits\obj\x86\Debug\05.FriendBits.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\05.FriendBits\obj\x86\Debug\05.FriendBits.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\05.FriendBits\obj\x86\Debug\05.FriendBits.csprojResolveAssemblyReference.cache

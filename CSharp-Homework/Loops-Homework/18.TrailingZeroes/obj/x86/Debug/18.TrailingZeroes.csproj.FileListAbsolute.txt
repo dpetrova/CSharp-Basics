@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\18.TrailingZeroes\obj\x86\Debug\18.TrailingZeroes.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\18.TrailingZeroes\obj\x86\Debug\18.TrailingZeroes.pdb

@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\04.PrintDeckOf52Cards\bin\Debug\04.PrintDeckOf52Cards.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\04.PrintDeckOf52Cards\bin\Debug\04.PrintDeckOf52Cards.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\04.PrintDeckOf52Cards\obj\x86\Debug\04.PrintDeckOf52Cards.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\04.PrintDeckOf52Cards\obj\x86\Debug\04.PrintDeckOf52Cards.pdb

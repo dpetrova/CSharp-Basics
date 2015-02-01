@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\04.LongestAlphabeticalWord\bin\Debug\04.LongestAlphabeticalWord.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\04.LongestAlphabeticalWord\bin\Debug\04.LongestAlphabeticalWord.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\04.LongestAlphabeticalWord\obj\x86\Debug\04.LongestAlphabeticalWord.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\04.LongestAlphabeticalWord\obj\x86\Debug\04.LongestAlphabeticalWord.pdb

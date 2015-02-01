@@ -1,0 +1,5 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\04.BitCopy\bin\Debug\04.BitCopy.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\04.BitCopy\bin\Debug\04.BitCopy.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\04.BitCopy\obj\x86\Debug\04.BitCopy.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\04.BitCopy\obj\x86\Debug\04.BitCopy.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\04.BitCopy\obj\x86\Debug\04.BitCopy.csprojResolveAssemblyReference.cache

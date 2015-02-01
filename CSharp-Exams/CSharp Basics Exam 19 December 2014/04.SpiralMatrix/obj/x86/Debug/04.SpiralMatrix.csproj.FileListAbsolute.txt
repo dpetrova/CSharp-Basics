@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\04.SpiralMatrix\bin\Debug\04.SpiralMatrix.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\04.SpiralMatrix\bin\Debug\04.SpiralMatrix.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\04.SpiralMatrix\obj\x86\Debug\04.SpiralMatrix.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics Exam 19 December 2014\04.SpiralMatrix\obj\x86\Debug\04.SpiralMatrix.pdb

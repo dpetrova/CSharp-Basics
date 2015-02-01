@@ -1,0 +1,5 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\05.BitBuilder\bin\Debug\05.BitBuilder.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\05.BitBuilder\bin\Debug\05.BitBuilder.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\05.BitBuilder\obj\x86\Debug\05.BitBuilder.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\05.BitBuilder\obj\x86\Debug\05.BitBuilder.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-8-November\05.BitBuilder\obj\x86\Debug\05.BitBuilder.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\07.SumOf5Numbers\obj\x86\Debug\07.SumOf5Numbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\07.SumOf5Numbers\obj\x86\Debug\07.SumOf5Numbers.pdb

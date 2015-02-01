@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\03.NewHouse\bin\Debug\03.NewHouse.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\03.NewHouse\bin\Debug\03.NewHouse.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\03.NewHouse\obj\x86\Debug\03.NewHouse.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\03.NewHouse\obj\x86\Debug\03.NewHouse.pdb

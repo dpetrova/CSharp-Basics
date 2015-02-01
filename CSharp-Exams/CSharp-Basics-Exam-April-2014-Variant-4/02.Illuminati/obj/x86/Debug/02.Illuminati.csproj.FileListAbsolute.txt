@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\02.Illuminati\bin\Debug\02.Illuminati.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\02.Illuminati\bin\Debug\02.Illuminati.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\02.Illuminati\obj\x86\Debug\02.Illuminati.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\02.Illuminati\obj\x86\Debug\02.Illuminati.pdb

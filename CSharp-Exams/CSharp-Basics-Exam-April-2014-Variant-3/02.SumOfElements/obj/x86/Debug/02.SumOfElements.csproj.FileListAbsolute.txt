@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\02.SumOfElements\bin\Debug\02.SumOfElements.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\02.SumOfElements\bin\Debug\02.SumOfElements.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\02.SumOfElements\obj\x86\Debug\02.SumOfElements.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\02.SumOfElements\obj\x86\Debug\02.SumOfElements.pdb

@@ -1,0 +1,5 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\01.FruitMarket\bin\Debug\01.FruitMarket.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\01.FruitMarket\bin\Debug\01.FruitMarket.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\01.FruitMarket\obj\x86\Debug\01.FruitMarket.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\01.FruitMarket\obj\x86\Debug\01.FruitMarket.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-7\01.FruitMarket\obj\x86\Debug\01.FruitMarket.csprojResolveAssemblyReference.cache

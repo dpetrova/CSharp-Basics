@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\05.BitsUp\bin\Debug\05.BitsUp.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\05.BitsUp\bin\Debug\05.BitsUp.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\05.BitsUp\obj\x86\Debug\05.BitsUp.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-2\05.BitsUp\obj\x86\Debug\05.BitsUp.pdb

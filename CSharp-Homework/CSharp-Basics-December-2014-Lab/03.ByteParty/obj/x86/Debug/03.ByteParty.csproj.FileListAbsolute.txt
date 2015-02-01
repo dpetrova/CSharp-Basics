@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\03.ByteParty\bin\Debug\03.ByteParty.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\03.ByteParty\bin\Debug\03.ByteParty.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\03.ByteParty\obj\x86\Debug\03.ByteParty.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\03.ByteParty\obj\x86\Debug\03.ByteParty.pdb

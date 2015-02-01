@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\04.MagicStrings\obj\x86\Debug\04.MagicStrings.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\04.MagicStrings\obj\x86\Debug\04.MagicStrings.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\04.MagicStrings\bin\Debug\04.MagicStrings.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-3\04.MagicStrings\bin\Debug\04.MagicStrings.pdb

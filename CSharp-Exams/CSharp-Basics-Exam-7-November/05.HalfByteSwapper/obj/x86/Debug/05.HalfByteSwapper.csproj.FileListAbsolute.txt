@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\05.HalfByteSwapper\bin\Debug\05.HalfByteSwapper.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\05.HalfByteSwapper\bin\Debug\05.HalfByteSwapper.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\05.HalfByteSwapper\obj\x86\Debug\05.HalfByteSwapper.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-7-November\05.HalfByteSwapper\obj\x86\Debug\05.HalfByteSwapper.pdb

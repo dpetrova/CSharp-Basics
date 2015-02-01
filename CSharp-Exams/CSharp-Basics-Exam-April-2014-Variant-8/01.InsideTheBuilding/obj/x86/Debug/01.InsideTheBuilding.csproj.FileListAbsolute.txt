@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\01.InsideTheBuilding\obj\x86\Debug\01.InsideTheBuilding.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-8\01.InsideTheBuilding\obj\x86\Debug\01.InsideTheBuilding.pdb

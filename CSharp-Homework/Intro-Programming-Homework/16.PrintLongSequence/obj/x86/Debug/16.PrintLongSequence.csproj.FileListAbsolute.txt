@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\16.PrintLongSequence\obj\x86\Debug\16.PrintLongSequence.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\Intro-Programming-Homework\16.PrintLongSequence\obj\x86\Debug\16.PrintLongSequence.pdb

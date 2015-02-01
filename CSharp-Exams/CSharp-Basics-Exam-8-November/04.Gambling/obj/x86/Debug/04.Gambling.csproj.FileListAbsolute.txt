@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\04.Gambling\bin\Debug\04.Gambling.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\04.Gambling\bin\Debug\04.Gambling.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\04.Gambling\obj\x86\Debug\04.Gambling.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\04.Gambling\obj\x86\Debug\04.Gambling.pdb

@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\05.DoubleDowns\bin\Debug\05.DoubleDowns.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\05.DoubleDowns\bin\Debug\05.DoubleDowns.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\05.DoubleDowns\obj\x86\Debug\05.DoubleDowns.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\05.DoubleDowns\obj\x86\Debug\05.DoubleDowns.pdb

@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\02.PrintCompanyInformation\obj\x86\Debug\02.PrintCompanyInformation.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\02.PrintCompanyInformation\obj\x86\Debug\02.PrintCompanyInformation.pdb

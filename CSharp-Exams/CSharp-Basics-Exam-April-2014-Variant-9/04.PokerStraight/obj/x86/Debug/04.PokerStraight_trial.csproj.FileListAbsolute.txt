@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\04.PokerStraight\bin\Debug\04.PokerStraight.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\04.PokerStraight\bin\Debug\04.PokerStraight.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\04.PokerStraight\obj\x86\Debug\04.PokerStraight.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-9\04.PokerStraight\obj\x86\Debug\04.PokerStraight.pdb

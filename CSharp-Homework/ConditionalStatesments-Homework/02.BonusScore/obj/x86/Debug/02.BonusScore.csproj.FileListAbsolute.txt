@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\02.BonusScore\bin\Debug\02.BonusScore.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\02.BonusScore\bin\Debug\02.BonusScore.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\02.BonusScore\obj\x86\Debug\02.BonusScore.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\02.BonusScore\obj\x86\Debug\02.BonusScore.pdb

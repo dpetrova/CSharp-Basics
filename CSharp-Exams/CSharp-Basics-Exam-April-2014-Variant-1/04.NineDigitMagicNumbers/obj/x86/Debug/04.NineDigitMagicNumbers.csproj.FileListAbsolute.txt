@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\04.NineDigitMagicNumbers\bin\Debug\04.NineDigitMagicNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\04.NineDigitMagicNumbers\bin\Debug\04.NineDigitMagicNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\04.NineDigitMagicNumbers\obj\x86\Debug\04.NineDigitMagicNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\04.NineDigitMagicNumbers\obj\x86\Debug\04.NineDigitMagicNumbers.pdb

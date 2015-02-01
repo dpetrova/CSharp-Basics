@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\04.ChessQueen2\bin\Debug\04.ChessQueen2.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\04.ChessQueen2\bin\Debug\04.ChessQueen2.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\04.ChessQueen2\obj\x86\Debug\04.ChessQueen2.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-22-August-2014\04.ChessQueen2\obj\x86\Debug\04.ChessQueen2.pdb

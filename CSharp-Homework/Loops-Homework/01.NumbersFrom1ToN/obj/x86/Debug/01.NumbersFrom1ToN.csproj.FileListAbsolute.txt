@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\01.NumbersFrom1ToN\obj\x86\Debug\01.NumbersFrom1ToN.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\Loops-Homework\01.NumbersFrom1ToN\obj\x86\Debug\01.NumbersFrom1ToN.pdb

@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\02.Numerology\bin\Debug\02.Numerology.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\02.Numerology\bin\Debug\02.Numerology.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\02.Numerology\obj\x86\Debug\02.Numerology.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-8-November\02.Numerology\obj\x86\Debug\02.Numerology.pdb

@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\02.FunWithMatrices\bin\Debug\02.FunWithMatrices.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\02.FunWithMatrices\bin\Debug\02.FunWithMatrices.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\02.FunWithMatrices\obj\x86\Debug\02.FunWithMatrices.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\02.FunWithMatrices\obj\x86\Debug\02.FunWithMatrices.pdb

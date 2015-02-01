@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\02.Pairs\bin\Debug\02.Pairs.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\02.Pairs\bin\Debug\02.Pairs.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\02.Pairs\obj\x86\Debug\02.Pairs.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\02.Pairs\obj\x86\Debug\02.Pairs.pdb

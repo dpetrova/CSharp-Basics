@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FruitMarket", "01.FruitMarket\01.FruitMarket.csproj", "{FFB5B0D0-CD3C-42BD-90FA-CAB8638EC6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BiggestTriple", "02.BiggestTriple\02.BiggestTriple.csproj", "{E97F5459-2260-4E58-9BC2-8CBD3735279A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FruitMarket_Dict", "01.FruitMarket_Dict\01.FruitMarket_Dict.csproj", "{740A05AD-A486-4E36-871D-319F21B7AEBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WineGlass", "03.WineGlass\03.WineGlass.csproj", "{97620BFB-7DCE-4379-8E94-24B7BB79A9FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.LongestAlphabeticalWord", "04.LongestAlphabeticalWord\04.LongestAlphabeticalWord.csproj", "{0E9D4AA1-2961-40E2-90AF-63BC733F26DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BitShooter", "05.BitShooter\05.BitShooter.csproj", "{531EB09D-900F-4A35-99C2-8238C769BB33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB5B0D0-CD3C-42BD-90FA-CAB8638EC6AD}.Debug|x86.ActiveCfg = Debug|x86
+		{FFB5B0D0-CD3C-42BD-90FA-CAB8638EC6AD}.Debug|x86.Build.0 = Debug|x86
+		{FFB5B0D0-CD3C-42BD-90FA-CAB8638EC6AD}.Release|x86.ActiveCfg = Release|x86
+		{FFB5B0D0-CD3C-42BD-90FA-CAB8638EC6AD}.Release|x86.Build.0 = Release|x86
+		{E97F5459-2260-4E58-9BC2-8CBD3735279A}.Debug|x86.ActiveCfg = Debug|x86
+		{E97F5459-2260-4E58-9BC2-8CBD3735279A}.Debug|x86.Build.0 = Debug|x86
+		{E97F5459-2260-4E58-9BC2-8CBD3735279A}.Release|x86.ActiveCfg = Release|x86
+		{E97F5459-2260-4E58-9BC2-8CBD3735279A}.Release|x86.Build.0 = Release|x86
+		{740A05AD-A486-4E36-871D-319F21B7AEBF}.Debug|x86.ActiveCfg = Debug|x86
+		{740A05AD-A486-4E36-871D-319F21B7AEBF}.Debug|x86.Build.0 = Debug|x86
+		{740A05AD-A486-4E36-871D-319F21B7AEBF}.Release|x86.ActiveCfg = Release|x86
+		{740A05AD-A486-4E36-871D-319F21B7AEBF}.Release|x86.Build.0 = Release|x86
+		{97620BFB-7DCE-4379-8E94-24B7BB79A9FE}.Debug|x86.ActiveCfg = Debug|x86
+		{97620BFB-7DCE-4379-8E94-24B7BB79A9FE}.Debug|x86.Build.0 = Debug|x86
+		{97620BFB-7DCE-4379-8E94-24B7BB79A9FE}.Release|x86.ActiveCfg = Release|x86
+		{97620BFB-7DCE-4379-8E94-24B7BB79A9FE}.Release|x86.Build.0 = Release|x86
+		{0E9D4AA1-2961-40E2-90AF-63BC733F26DA}.Debug|x86.ActiveCfg = Debug|x86
+		{0E9D4AA1-2961-40E2-90AF-63BC733F26DA}.Debug|x86.Build.0 = Debug|x86
+		{0E9D4AA1-2961-40E2-90AF-63BC733F26DA}.Release|x86.ActiveCfg = Release|x86
+		{0E9D4AA1-2961-40E2-90AF-63BC733F26DA}.Release|x86.Build.0 = Release|x86
+		{531EB09D-900F-4A35-99C2-8238C769BB33}.Debug|x86.ActiveCfg = Debug|x86
+		{531EB09D-900F-4A35-99C2-8238C769BB33}.Debug|x86.Build.0 = Debug|x86
+		{531EB09D-900F-4A35-99C2-8238C769BB33}.Release|x86.ActiveCfg = Release|x86
+		{531EB09D-900F-4A35-99C2-8238C769BB33}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

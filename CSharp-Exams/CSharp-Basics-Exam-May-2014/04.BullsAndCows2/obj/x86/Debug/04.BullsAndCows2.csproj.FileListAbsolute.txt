@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\04.BullsAndCows2\bin\Debug\04.BullsAndCows2.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\04.BullsAndCows2\bin\Debug\04.BullsAndCows2.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\04.BullsAndCows2\obj\x86\Debug\04.BullsAndCows2.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-May-2014\04.BullsAndCows2\obj\x86\Debug\04.BullsAndCows2.pdb

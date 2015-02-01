@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\14.ModifyBitAtGivenPosition\obj\x86\Debug\14.ModifyBitAtGivenPosition.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\14.ModifyBitAtGivenPosition\obj\x86\Debug\14.ModifyBitAtGivenPosition.pdb

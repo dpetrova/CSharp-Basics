@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\03.PandaScotlandFlag\bin\Debug\03.PandaScotlandFlag.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\03.PandaScotlandFlag\bin\Debug\03.PandaScotlandFlag.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\03.PandaScotlandFlag\obj\x86\Debug\03.PandaScotlandFlag.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-July-2014-Morning\03.PandaScotlandFlag\obj\x86\Debug\03.PandaScotlandFlag.pdb

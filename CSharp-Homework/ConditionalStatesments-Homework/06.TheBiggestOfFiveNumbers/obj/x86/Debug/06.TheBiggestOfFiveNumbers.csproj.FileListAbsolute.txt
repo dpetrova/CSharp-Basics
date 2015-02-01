@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\06.TheBiggestOfFiveNumbers\obj\x86\Debug\06.TheBiggestOfFiveNumbers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\06.TheBiggestOfFiveNumbers\obj\x86\Debug\06.TheBiggestOfFiveNumbers.pdb

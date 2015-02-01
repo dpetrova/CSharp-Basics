@@ -1,0 +1,5 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\05.CatchTheBits\bin\Debug\05.CatchTheBits.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\05.CatchTheBits\bin\Debug\05.CatchTheBits.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\05.CatchTheBits\obj\x86\Debug\05.CatchTheBits.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\05.CatchTheBits\obj\x86\Debug\05.CatchTheBits.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-4\05.CatchTheBits\obj\x86\Debug\05.CatchTheBits.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\01.ExchangeIfGreater\bin\Debug\01.ExchangeIfGreater.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\01.ExchangeIfGreater\bin\Debug\01.ExchangeIfGreater.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\01.ExchangeIfGreater\obj\x86\Debug\01.ExchangeIfGreater.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\ConditionalStatesments-Homework\01.ExchangeIfGreater\obj\x86\Debug\01.ExchangeIfGreater.pdb

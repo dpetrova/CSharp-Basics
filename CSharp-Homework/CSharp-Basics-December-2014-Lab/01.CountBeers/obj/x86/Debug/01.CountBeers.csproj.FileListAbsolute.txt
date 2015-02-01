@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\01.CountBeers\bin\Debug\01.CountBeers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\01.CountBeers\bin\Debug\01.CountBeers.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\01.CountBeers\obj\x86\Debug\01.CountBeers.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-December-2014-Lab\01.CountBeers\obj\x86\Debug\01.CountBeers.pdb

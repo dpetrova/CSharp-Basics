@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Advanced-Topics-Homework\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Advanced-Topics-Homework\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Advanced-Topics-Homework\02.PrimeChecker\obj\x86\Debug\02.PrimeChecker.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Advanced-Topics-Homework\02.PrimeChecker\obj\x86\Debug\02.PrimeChecker.pdb

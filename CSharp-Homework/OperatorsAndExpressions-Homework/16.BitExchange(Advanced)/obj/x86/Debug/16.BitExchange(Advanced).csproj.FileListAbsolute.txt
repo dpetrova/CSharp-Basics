@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\16.BitExchange(Advanced)\bin\Debug\16.BitExchange(Advanced).exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\16.BitExchange(Advanced)\bin\Debug\16.BitExchange(Advanced).pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\16.BitExchange(Advanced)\obj\x86\Debug\16.BitExchange(Advanced).exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\OperatorsAndExpressions-Homework\16.BitExchange(Advanced)\obj\x86\Debug\16.BitExchange(Advanced).pdb

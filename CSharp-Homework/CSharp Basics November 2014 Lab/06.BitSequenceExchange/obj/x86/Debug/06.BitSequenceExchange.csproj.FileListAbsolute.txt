@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\06.BitSequenceExchange\bin\Debug\06.BitSequenceExchange.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\06.BitSequenceExchange\bin\Debug\06.BitSequenceExchange.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\06.BitSequenceExchange\obj\x86\Debug\06.BitSequenceExchange.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\06.BitSequenceExchange\obj\x86\Debug\06.BitSequenceExchange.pdb

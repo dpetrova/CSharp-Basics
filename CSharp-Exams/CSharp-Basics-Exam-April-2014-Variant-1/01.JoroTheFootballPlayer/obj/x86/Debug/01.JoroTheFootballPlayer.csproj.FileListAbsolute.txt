@@ -1,0 +1,4 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\01.JoroTheFootballPlayer\bin\Debug\01.JoroTheFootballPlayer.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\01.JoroTheFootballPlayer\bin\Debug\01.JoroTheFootballPlayer.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\01.JoroTheFootballPlayer\obj\x86\Debug\01.JoroTheFootballPlayer.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-1\01.JoroTheFootballPlayer\obj\x86\Debug\01.JoroTheFootballPlayer.pdb

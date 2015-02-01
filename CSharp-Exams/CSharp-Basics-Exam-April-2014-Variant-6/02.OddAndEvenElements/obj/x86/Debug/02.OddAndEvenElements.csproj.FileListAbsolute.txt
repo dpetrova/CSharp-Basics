@@ -1,0 +1,5 @@
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-6\02.OddAndEvenElements\bin\Debug\02.OddAndEvenElements.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-6\02.OddAndEvenElements\bin\Debug\02.OddAndEvenElements.pdb
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-6\02.OddAndEvenElements\obj\x86\Debug\02.OddAndEvenElements.exe
+c:\users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-6\02.OddAndEvenElements\obj\x86\Debug\02.OddAndEvenElements.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-6\02.OddAndEvenElements\obj\x86\Debug\02.OddAndEvenElements.csprojResolveAssemblyReference.cache

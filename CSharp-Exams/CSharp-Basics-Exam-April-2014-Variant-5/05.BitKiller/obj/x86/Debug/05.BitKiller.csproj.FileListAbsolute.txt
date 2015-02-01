@@ -1,0 +1,4 @@
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\05.BitKiller\bin\Debug\05.BitKiller.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\05.BitKiller\bin\Debug\05.BitKiller.pdb
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\05.BitKiller\obj\x86\Debug\05.BitKiller.exe
+C:\Users\urukhai\Documents\Visual Studio 2010\Projects\CSharp-Basics-Exam-April-2014-Variant-5\05.BitKiller\obj\x86\Debug\05.BitKiller.pdb

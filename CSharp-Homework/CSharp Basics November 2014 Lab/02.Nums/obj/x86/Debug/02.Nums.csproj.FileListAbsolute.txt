@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\02.Nums\bin\Debug\02.Nums.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\02.Nums\bin\Debug\02.Nums.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\02.Nums\obj\x86\Debug\02.Nums.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp Basics November 2014 Lab\02.Nums\obj\x86\Debug\02.Nums.pdb

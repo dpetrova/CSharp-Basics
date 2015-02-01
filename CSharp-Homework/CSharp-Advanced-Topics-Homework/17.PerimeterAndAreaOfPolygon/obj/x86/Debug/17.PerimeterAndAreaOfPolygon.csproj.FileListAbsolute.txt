@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\17.PerimeterAndAreaOfPolygon\obj\x86\Debug\17.PerimeterAndAreaOfPolygon.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\17.PerimeterAndAreaOfPolygon\obj\x86\Debug\17.PerimeterAndAreaOfPolygon.pdb

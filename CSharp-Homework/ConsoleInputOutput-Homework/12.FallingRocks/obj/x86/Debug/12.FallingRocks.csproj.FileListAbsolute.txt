@@ -1,0 +1,4 @@
+C:\Users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\12.FallingRocks\bin\Debug\12.FallingRocks.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
+C:\Users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\12.FallingRocks\obj\x86\Debug\12.FallingRocks.exe
+C:\Users\urukhai\documents\visual studio 2010\Projects\ConsoleInputOutput-Homework\12.FallingRocks\obj\x86\Debug\12.FallingRocks.pdb
